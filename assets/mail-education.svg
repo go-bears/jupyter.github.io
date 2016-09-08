@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120"
+   height="100"
+   viewBox="0 0 119.99999 99.999993"
+   id="svg4824"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mail-education.svg">
+  <defs
+     id="defs4826" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-24.491515"
+     inkscape:cy="59.296462"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1415"
+     inkscape:window-height="570"
+     inkscape:window-x="73"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4829">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36224)">
+    <g
+       class="com.sun.star.drawing.ClosedBezierShape"
+       id="g63"
+       transform="matrix(0.07403419,0,0,0.07403419,-53.421635,916.79486)">
+      <g
+         id="id4">
+        <rect
+           class="BoundingBox"
+           x="723"
+           y="741"
+           width="1619"
+           height="573"
+           id="rect66"
+           style="fill:none;stroke:none" />
+        <path
+           d="m 2341,1049 c -45,15 -87,29 -129,43 -71,24 -142,47 -214,71 -95,31 -191,62 -286,94 -55,18 -110,36 -165,54 -5,2 -12,2 -17,0 -117,-38 -234,-76 -350,-114 -138,-44 -275,-88 -412,-133 -14,-4 -28,-9 -45,-15 25,-10 47,-19 69,-27 73,-28 145,-55 218,-83 77,-29 155,-58 233,-88 86,-32 171,-64 256,-97 11,-4 22,-9 33,-12 4,-1 10,-1 14,0 88,34 177,68 265,102 118,46 237,91 355,137 57,22 115,44 175,68 z"
+           id="path68"
+           inkscape:connector-curvature="0"
+           style="fill:#757575;fill-opacity:0.81999966;stroke:#ffffff;stroke-opacity:0.81999966" />
+      </g>
+    </g>
+    <g
+       class="com.sun.star.drawing.ClosedBezierShape"
+       id="g70"
+       transform="matrix(0.07403419,0,0,0.07403419,-53.421635,916.79486)">
+      <g
+         id="id5">
+        <rect
+           class="BoundingBox"
+           x="1054"
+           y="1182"
+           width="964"
+           height="379"
+           id="rect73"
+           style="fill:none;stroke:none" />
+        <path
+           d="m 1054,1182 c 29,10 58,19 86,29 110,37 220,74 331,111 20,7 41,19 62,19 21,0 41,-12 62,-19 97,-33 195,-65 293,-98 40,-13 81,-27 121,-40 2,-1 4,-1 7,-2 l 0,226 c -22,1 -45,2 -67,4 -69,8 -136,23 -201,47 -72,25 -141,59 -206,99 -4,2 -11,2 -15,0 -102,-61 -210,-107 -326,-132 -44,-9 -89,-12 -133,-18 -4,0 -9,0 -14,-1 l 0,-225 z"
+           id="path75"
+           inkscape:connector-curvature="0"
+           style="fill:#757575;fill-opacity:0.81999966;stroke:#ffffff;stroke-opacity:0.81999966" />
+      </g>
+    </g>
+  </g>
+</svg>
